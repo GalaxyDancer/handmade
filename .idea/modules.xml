@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/handmade.iml" filepath="$PROJECT_DIR$/handmade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handmade-api/handmade-api.iml" filepath="$PROJECT_DIR$/handmade-api/handmade-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handmade-data-stub/handmade-data-stub.iml" filepath="$PROJECT_DIR$/handmade-data-stub/handmade-data-stub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handmade-service/handmade-service.iml" filepath="$PROJECT_DIR$/handmade-service/handmade-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handmade-web/handmade-web.iml" filepath="$PROJECT_DIR$/handmade-web/handmade-web.iml" />
+    </modules>
+  </component>
+</project>

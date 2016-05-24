@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="handmade-web:war">
+    <output-path>$PROJECT_DIR$/handmade-web/target</output-path>
+    <root id="archive" name="handmade-web.war">
+      <element id="artifact" artifact-name="handmade-web:war exploded" />
+    </root>
+  </artifact>
+</component>
